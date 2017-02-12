@@ -1,7 +1,7 @@
 eLang
 =====
 
-An erlang application used to give language support for eTodo.
+An erlang application used to add language support to eTodo.
 
 Build
 -----
