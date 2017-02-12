@@ -1,0 +1,17 @@
+{application, eLang,
+ [
+  {description, "Language support application"},
+  {vsn, "1.0.0"},
+  {registered, [eLang]},
+  {modules, [
+      eLang_app,
+      eLang_sup,
+      eLang
+   ]},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { eLang_app, [eGuiFunctions]}},
+  {env, []}
+ ]}.
