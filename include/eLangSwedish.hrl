@@ -15,7 +15,7 @@
           "aboutLbl3"             => "Tillägg av:",
           "aboutLbl4"             => "Ikoner och grafik:",
           "aboutLbl5"             => "Se Open Icon Library",
-          "aboutLbl6"             => "Licens:",
+          "aboutLbl6"             => "Inkluderad 3:rd part mjukvara",
           "aboutMenu"             => "Om",
           "addListButton"         => #{tooltip  => "Lägg till uppgift till lista"},
           "addOwnerButton"        => #{tooltip  => "Hantera ägare"},

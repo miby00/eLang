@@ -15,7 +15,7 @@
           "aboutLbl3"             => "Additions by:",
           "aboutLbl4"             => "Art and Icons:",
           "aboutLbl5"             => "See Open Icon Library at",
-          "aboutLbl6"             => "Licence:",
+          "aboutLbl6"             => "Included 3:rd party software",
           "aboutMenu"             => "About",
           "addListButton"         => #{tooltip  => "Add task to list"},
           "addOwnerButton"        => #{tooltip  => "Manage owners"},
